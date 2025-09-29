@@ -5,7 +5,8 @@ This project is a simple invoice management app built with React based on the pr
 It demonstrates authentication, mock API integration, and real-time updates, following best practices in component structure and state management.
 
 Features
-
+Developed an admin dashboard and inventory system that improved small business operations and reduced manual
+workload
 Authentication: Signup/Login using Firebase Authentication.
 
 Invoices:
